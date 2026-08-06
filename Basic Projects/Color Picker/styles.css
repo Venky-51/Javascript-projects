@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.container{
+    width: 450px;
+    padding: 30px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(80,1,250,0.5);
+}
+
+.box{
+    width: 500x;
+    height: 150px;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.red-btn{
+    background-color: red;
+}
+
+.green-btn{
+    background-color: green;
+}
+
+.blue-btn{
+    background-color: blue;
+}
+
+.yellow-btn{
+    background-color: yellow;
+}
+
+.black-btn{
+    background-color: black;
+    color: white;
+}
